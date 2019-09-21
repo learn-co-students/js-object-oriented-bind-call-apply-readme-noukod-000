@@ -1,4 +1,4 @@
-# Bind, Call, and Apply Readme
+# Bind, Call, and Apply Readm
 
 ## Objectives
 1. Use `call()` and `apply()` to invoke a function with an explicit value for `this`
